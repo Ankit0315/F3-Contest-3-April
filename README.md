@@ -1,6 +1,8 @@
 # F3-Contest-3-April
-Project Overview
-Task
+Project Overview :
+
+Task:
+
 Handle authentication using local storage.
 Create a UI as shown in Figma, and make 2 pages - signup and profile.
 On clicking signup, use local storage to create the state of the user - it should contain all the details taken in signup.
